@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98e97d06-2bd7-4f4f-bd59-fb251c2b96a0" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML/dota2.ico" afterPath="$PROJECT_DIR$/01-HTML/dota2.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML/dota2.png" afterPath="$PROJECT_DIR$/01-HTML/dota2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML/pagina1.html" afterPath="$PROJECT_DIR$/01-HTML/pagina1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML/pagina2.html" afterPath="$PROJECT_DIR$/01-HTML/pagina2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML/pagina3.html" afterPath="$PROJECT_DIR$/01-HTML/pagina3.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML/servidor.html" afterPath="$PROJECT_DIR$/01-HTML/servidor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02-CSS/index.html" afterPath="$PROJECT_DIR$/02-CSS/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -56,8 +50,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02-CSS/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="259">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -282,7 +276,7 @@
       <workItem from="1493468392796" duration="1659000" />
       <workItem from="1493470345485" duration="3696000" />
       <workItem from="1494073284269" duration="3588000" />
-      <workItem from="1494288484746" duration="289000" />
+      <workItem from="1494288484746" duration="892000" />
     </task>
     <task id="LOCAL-00001" summary="cambio">
       <created>1493468536793</created>
@@ -323,7 +317,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10205000" />
+    <option name="totallyTimeSpent" value="10808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1339" extended-state="6" />
@@ -460,8 +454,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02-CSS/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="259">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding />
         </state>
       </provider>
