@@ -1,49 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
+    <link rel="stylesheet" href="Estilos.css">
     <style>
-        div {
-            width: 100px;
-            height: 100px;
-            background-color: red;
-            position: relative;
-            -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
-            -webkit-animation-duration: 8s; /* Safari 4.0 - 8.0 */
-            animation-name: example;
-            animation-duration: 8s;
-        }
 
-        /* Safari 4.0 - 8.0 */
-        @-webkit-keyframes example {
-            0%   {background-color:red; left:0px; top:0px;}
-            25%  {background-color:yellow; left:200px; top:0px;}
-            50%  {background-color:blue; left:200px; top:200px;}
-            75%  {background-color:green; left:0px; top:200px;}
-            100% {background-color:red; left:0px; top:0px;}
-        }
-
-        /* Standard syntax */
-        @keyframes example {
-
-            0%   {background-color:red;width:344px; left:0px; top:0px;}
-            25%  {background-color:yellow; left:100px; top:0px;}
-            50%  {background-color:blue; left:300px; top:600px;}
-            75%  {background-color:green; left:0px; top:600px;}
-            100% {background-color:red; left:0px; top:0px;}
-        }
-        /*jeraquia style ->id ->clase ->etiqueta*/
-        /*
-        button{
-            background-color: #ff0c0a;
-            color: cornflowerblue;
-            border-color: #111111;
-        }*/
-        button:hover{
-            background-color: #0c12ff;
-            color: antiquewhite;
-            border-color:chartreuse ;
-        }
        /* body{
             background-color: #519aff;
 
@@ -70,7 +30,7 @@
 </head>
 <body>
 
-<div align="center">Cuadrado cambiante de color</div>
+
 <!--<div><h1 style="background-color: #519aff;font-size: medium ">Hola que hace mundo</h1>
     <h2>jorge</h2></div>
 <div><h3>
@@ -98,5 +58,6 @@
 <h1>Crear universo</h1>
 <button class="boton-cuidado">Destruir Universo</button>
 <button class="boton-exito">Crear Universo</button>
+<div align="center">Cuadrado cambiante de color</div>
 </body>
 </html>
