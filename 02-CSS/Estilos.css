@@ -1,0 +1,43 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 8s; /* Safari 4.0 - 8.0 */
+    animation-name: example;
+    animation-duration: 8s;
+    animation-iteration-count: 5;
+    animation-delay:2s;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes example {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+
+/* Standard syntax */
+@keyframes example {
+
+    0%   {background-color:red;width:344px; left:0px; top:0px;}
+    25%  {background-color:yellow; left:100px; top:0px;}
+    50%  {background-color:blue; left:300px; top:600px;}
+    75%  {background-color:green; left:0px; top:600px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+/*jeraquia style ->id ->clase ->etiqueta*/
+/*
+button{
+    background-color: #ff0c0a;
+    color: cornflowerblue;
+    border-color: #111111;
+}*/
+button:hover{
+    background-color: #0c12ff;
+    color: antiquewhite;
+    border-color:chartreuse ;
+}
